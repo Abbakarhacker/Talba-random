@@ -23,3 +23,7 @@
 😁ls
 
 😁python Abbakareo.py
+
+PASSWORD 
+USERNAME =EO
+PASSWORD =EO
